@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|d:\\new folder\\my project (1)\\assets\\tutorialinfo\\scripts\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\mapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\mapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\fuelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\fuelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\collectfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\collectfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\controlsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\controlsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\displaydistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\displaydistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\carswipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\carswipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\carselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\carselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\roofcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\roofcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\mapselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\mapselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|D:\\New folder\\My project (1)\\assets\\tutorialinfo\\scripts\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\My project (1)\\Assets\\google-services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\google-services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vieri\\My project (1)\\assets\\tutorialinfo\\scripts\\firebase\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Camera.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Camera.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Camera.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:12:45.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarManager.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\CarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\CarManager.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\CarManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\CarManager.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAiwFAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:13:43.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\DatabaseManager.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\DatabaseManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\DatabaseManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:04:17.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:02:39.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\AuthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\AuthManager.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\AuthManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\AuthManager.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowIYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:20:24.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Car.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Car.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Car.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Car.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAUwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:12:49.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuelController.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\FuelController.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\FuelController.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\FuelController.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\FuelController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:18:10.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapManager.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\MapManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\MapManager.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\MapManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\MapManager.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:57:28.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Reference.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Reference.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Reference.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Reference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:04:35.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:18:13.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:57:20.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DisplayDistance.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\DisplayDistance.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\DisplayDistance.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\DisplayDistance.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\DisplayDistance.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:18:05.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollectFuel.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\CollectFuel.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\CollectFuel.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\CollectFuel.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\CollectFuel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:17:52.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "google-services.json",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\google-services.json",
+              "RelativeDocumentMoniker": "Assets\\google-services.json",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\google-services.json",
+              "RelativeToolTip": "Assets\\google-services.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T07:49:16.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControlSettings.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\ControlSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\ControlSettings.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\ControlSettings.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\ControlSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:17:56.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarSwipe.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\CarSwipe.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\CarSwipe.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\CarSwipe.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\CarSwipe.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:16:51.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarSelection.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\CarSelection.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\CarSelection.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\CarSelection.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\CarSelection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:16:21.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoofCollider.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\RoofCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\RoofCollider.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\RoofCollider.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\RoofCollider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:04:05.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\LoginManager.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\LoginManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\LoginManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:54:18.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\vieri\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Firebase\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\vieri\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Firebase\\AuthManager.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAAAI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:02:33.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Finish.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Finish.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Finish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:19:32.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\User.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\User.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\User.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:02:08.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\SoundManager.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\SoundManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:55:53.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Money.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Money.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Money.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Money.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Money.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:05:59.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Place.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Place.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Place.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\Place.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Place.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:53:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MapSelection.cs",
+              "DocumentMoniker": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\MapSelection.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\MapSelection.cs",
+              "ToolTip": "D:\\New folder\\My project (1)\\Assets\\TutorialInfo\\Scripts\\MapSelection.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\MapSelection.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:57:24.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

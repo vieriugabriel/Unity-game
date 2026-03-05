@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515064034463",
+    "firebase_url": "https://android-game-49ec9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "android-game-49ec9",
+    "storage_bucket": "android-game-49ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515064034463:android:273e939ceb7840d17e5eaa",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515064034463-79jpb3lvcek4hroe726es77g6ve2s0ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDaVunN-iQJLg-VLd2Re7OK-vNHBPT1jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515064034463-79jpb3lvcek4hroe726es77g6ve2s0ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
